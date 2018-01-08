@@ -1,3 +1,4 @@
+--1. What's the most expensive listing? What else can you tell me about the listing?
 SELECT 
 	id, 
 	name,
