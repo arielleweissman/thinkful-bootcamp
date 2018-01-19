@@ -9,7 +9,11 @@
 
 3. You launch a new ad billboard based campaign and see an increase in website visits in the first week.
 - The first thought I have is that the initial design of the test is not proper. There is no experimental and control groups. 
-  You cannot assume that all website visits came from individuals who saw the billboard. There are also variables that can be overlooked. Was the website on sale that week? It also might be of interest to measure longer than a week. Does the performance continue to increase 2 weeks after billboard? How about after the billboard is taken down? Is the site still on sale? If customer engagement is steady it could have nothing to do with the billboard and more to do with the sale. May not have any bias but the experiment is flawed.
+  You cannot assume that all website visits came from individuals who saw the billboard. There are also variables that can be overlooked. 
+  Was the website on sale that week? It also might be of interest to measure longer than a week. 
+  Does the performance continue to increase 2 weeks after billboard? How about after the billboard is taken down? 
+  Is the site still on sale? If customer engagement is steady it could have nothing to do with the billboard and more to do with the sale. 
+  May not have any bias but the experiment is flawed.
 
 4. You launch a loyalty program but see no change in visits in the first week.
 - While it is not stated in the scenario above, the loyalty program conditions may be contexually biased. 
