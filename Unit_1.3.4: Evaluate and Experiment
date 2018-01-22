@@ -50,3 +50,23 @@ satisfaction in the 3 countries with HR. This will solely focus on IT job satisf
 physical activity data is automatically sent to the company for product research purposes. During your interview with the company, they 
 tell you that the app is very effective because after installing the app, the data show that people's activity levels rise steadily.
 
+
+Identified Flaws: Selection/sampling bias exists as we are unsure of how physically active participants were prior to installing the
+app. It is likely that those who would choose to install the app would want to track their level of physical activity, meaning they
+are already physically active.
+
+Proposal: Have 'opt-in' be mandatory for all users who install the app. Also, conduct an experiment with a sample of indivuals evenly
+distributed in being physically active and those who are not and then study their use of the app.
+
+5. To prevent cheating, a teacher writes three versions of a test. She stacks the three versions together, first all copies of 
+Version A, then all copies of Version B, then all copies of Version C. As students arrive for the exam, each student takes a test. 
+When grading the test, the teacher finds that students who took Version B scored higher than students who took either Version A or 
+Version C. She concludes from this that Version B is easier, and discards it.
+
+Identified Flaws: The three versions of the tests were not randomly distributed, and instead were assigned based on the arrival of each
+student to the classroom. The teacher cannot control the experiment as it is possible that the students who took version B were her
+higher performing students.
+
+Proposal: The teach should randomize the tests among the academic levels of her students.
+
+
