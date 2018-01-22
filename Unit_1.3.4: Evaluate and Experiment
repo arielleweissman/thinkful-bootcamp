@@ -36,3 +36,17 @@ and workers in Information Technology. Most HR workers are concentrated in three
 distributed across worksites. The company requests a report on satisfaction for each job type. You calculate average job satisfaction for 
 HR and for IT and present the report.
 
+Identified Flaws: Again, I see Simpson's Paradox when averaging job satisfaction across all countries. Job satisfaction is going to
+differ by country and worksite as there are many factors in the country and workplace that can contribute to employee job satisfaction.
+Averaging all countries does not account for differences in demographics among all 5 countries. The comparison from HR and IT is also
+flawed as HR jobs consist mainly in 3 countries, thus, employee satisfaction cannot be averaged as HR jobs are more heavily weighted
+in 3 countries. There can also be differences in the operation of each worksite which can directly affect job satisfaction.
+
+Proposal: Calculate job satisfaction by country and limit this to the 3 countries in which HR is concentrated to compare the two
+job types. For the 2 countries that do not have HR, I will compare the results of IT job satisfaction in those 2 countries to IT job
+satisfaction in the 3 countries with HR. This will solely focus on IT job satisfcation across all 5 countries.
+
+4. When people install the Happy Days Fitness Tracker app, they are asked to "opt in" to a data collection scheme where their level of 
+physical activity data is automatically sent to the company for product research purposes. During your interview with the company, they 
+tell you that the app is very effective because after installing the app, the data show that people's activity levels rise steadily.
+
