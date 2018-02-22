@@ -1,0 +1,20 @@
+1. The amount a person will spend on a given site in the next 24 months.
+A: Regression.
+
+2. What color car someone is going to buy.
+A: Classification.
+
+3. How many children a family will have.
+A: Either. For classification yiou can rank the likelihood of each value of children, for regression you can find the most likelyl place along a continuous line.
+
+4. If someone will sign up for a service.
+A: Classification.
+
+5. The number of times someone will get sick in a year.
+A: Regression.
+
+6. The probability someone will get sick in the next month.
+A: Classification.
+
+7. Which medicine will work best for a given patient.
+A: Classification.
