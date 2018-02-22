@@ -1,0 +1,20 @@
+TLADS Drill
+Categorize each of the variables in the ESS dataset as categorical or continuous, and if continuous as ordinal, interval, or ratio variables. Check your work with your mentor, and discuss what that information might imply for feature engineering with this data.
+
+1. cntry = categorical - CORRECT.
+2. year = categorical - CORRECT.
+3. idno = continuous (ordinal) - INCORRECT.
+      Answer = Categorical. If an ID number contains special characters like abc123, xyz456 then it is categorical.
+4. tvtot = continuous (ratio) - CORRECT.
+5. ppltrst = continuous (interval) - INCORRECT.
+      Answer =  continuous (ratio). has an absolute zero value. 
+6. pplfair = continuous (interval) - INCORRECT.
+      Answer =  continuous (ratio). has an absolute zero value. 
+7. pplhlp = continuous (interval) - INCORRECT.
+      Answer =  continuous (ratio). has an absolute zero value. 
+8. sclmeet = continuous (interval/ordinal) - CORRECT. (answer is ambiguous in curriculum)
+9. sclact = continuous (interval/ordinal) - ****INCORRECT?
+      Answer =  answer in curriculm says its continuous (ratio), however how can that be if there is no absolute zero value? apparently                   possible since combining all the absolute zero answers ('never do any sclact' into 1 with the 'less than normal' answers)
+10. gender = categorical - CORRECT.
+11. agea = continuous (ratio) - CORRECT.
+12. partner = categorical - CORRECT.
